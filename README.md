@@ -1,2 +1,1 @@
-# chinese-books
-After feeling that I had read these books
+是一个比较喜欢读书的人,工作之余经常读一些感兴趣的书.希望在这里能跟大家一起共勉,一起分享和交流感想.
